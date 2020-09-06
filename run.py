@@ -54,7 +54,7 @@ def display_user():
     """
     return User.display_users()
 
-    def display_cred():
+def display_cred():
     """
     Function that returns saved user credentials
     """
