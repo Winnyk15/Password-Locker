@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3.8
 from user import User
 from credential import Credential
 import random
@@ -56,9 +56,8 @@ def display_user():
 
     def display_cred():
     """
-    function that returns saved user credentials
+    Function that returns saved user credentials
     """
-
     return Credential.display_credential()
 
 
