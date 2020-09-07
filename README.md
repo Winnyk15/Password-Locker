@@ -8,7 +8,7 @@ The goal of this project is to help us exercise and create an amazing applicatio
 To run the program, link all classes to the run file and use the following code at the beginning of your main code:
 
 ```buildoutcfg
-#!/usr/bin/env python3.6
+#!/usr/bin/env python3.8
 ```
 At the terminal, run the following command:
 
