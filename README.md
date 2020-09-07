@@ -15,6 +15,9 @@ At the terminal, run the following command:
 ```buildoutcfg
 ./run.py
 ``` 
+## Behavior Driven Development
+GIVEN allowed actions,	WHEN a user types in the action,	THEN the program fulfils the action.
+		
 ## Built With
 
 * PyCharm - The text editor used
